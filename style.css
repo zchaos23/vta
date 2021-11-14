@@ -13,6 +13,11 @@
     text-align:center
 }
 
+.line_3 {
+    display: block;
+    text-align:center
+}
+
 .footer {
     display: block;
     margin: auto;
@@ -35,6 +40,8 @@
 a {
     font: 1em sans-serif;
     color: cornflowerblue;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
 }
 
 label {
